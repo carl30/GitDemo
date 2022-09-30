@@ -1,5 +1,2 @@
-public class Demo {
-
-
-
-}
+/** 1 */
+public class Demo {}
